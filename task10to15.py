@@ -1,0 +1,6 @@
+print("Task10: nano main.py def hello (): print('Python is awesome!') ")
+print('Task11: "Исправил функцию, добавил новое сообщение" ')
+print('Task12: \n git checkout master\n','git status\n')
+print('Task13: git merge mybranch ')
+print('Task14: git remote add origin git@github.com:student123/MyRepo.git')
+print('Task15: git push origin master')
